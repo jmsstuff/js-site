@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Joan Steinbacher",
+    "description": "",
+    "home_page_url": "https://jmsstuff.github.io/js-site",
+    "feed_url": "https://jmsstuff.github.io/js-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joan"
+    },
+    "items": [
+        {
+            "id": "https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html",
+            "url": "https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html",
+            "title": "Cronometer: Free and Easy-to-Use Food Diary",
+            "summary": "Cronometer is a food diary that provides a comprehensive database of foods (so you don’t have to enter foods or&hellip;",
+            "content_html": "<p><a href=\"https://cronometer.com/index.html\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Cronometer food diary\" rel=\"noopener noreferrer\">Cronometer</a> is a food diary that provides a comprehensive database of foods (so you don’t have to enter foods or nutritional values manually) and a detailed display of information. In addition to the standard breakout of calories, carbohydrates, protein, and fat amounts, it displays vitamins, minerals, added sugars, and more. Cronometer also allows for logging exercise, weight, and other biometrics.</p>\n<p>Best of all, it comes at a very economical price – free! There is also a “Gold” level, but even that's a low annual fee. Cronometer has both a web-based interface and mobile apps (iOS and Android). I like having both options so I can use my laptop (larger screen for my aging eyes) when I’m home and the mobile app for when I travel.</p>",
+            "image": "https://jmsstuff.github.io/js-site/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg",
+            "author": {
+                "name": "Joan"
+            },
+            "tags": [
+                   "sidebar"
+            ],
+            "date_published": "2026-03-09T17:00:56-04:00",
+            "date_modified": "2026-04-16T22:08:15-04:00"
+        }
+    ]
+}

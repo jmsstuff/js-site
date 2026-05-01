@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jmsstuff.github.io/js-site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jmsstuff.github.io/js-site/</loc>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/chapter-1.html</loc>
+<lastmod>2026-04-26T17:02:53-04:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html</loc>
+<lastmod>2026-04-16T22:08:15-04:00</lastmod>
+<image:image>
+<image:loc>https://jmsstuff.github.io/js-site/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg</image:loc>
+<image:title><![CDATA[plates of food]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/disclosure.html</loc>
+<lastmod>2026-04-18T17:14:40-04:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/florida-food-festival-guide.html</loc>
+<lastmod>2026-04-26T17:00:48-04:00</lastmod>
+<image:image>
+<image:loc>https://jmsstuff.github.io/js-site/media/posts/3/FoodFestFrontRGB72.jpg</image:loc>
+<image:title><![CDATA[Food Fest! Your Complete Guide to Florida's Food Festivals]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/home-page.html</loc>
+<lastmod>2026-03-06T21:27:50-05:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/privacy-policy.html</loc>
+<lastmod>2026-04-18T17:11:56-04:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/sample-page.html</loc>
+<lastmod>2026-04-26T17:02:24-04:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/table-of-contents.html</loc>
+<lastmod>2026-04-26T17:02:06-04:00</lastmod>
+</url>
+<url>
+<loc>https://jmsstuff.github.io/js-site/terms-of-use.html</loc>
+<lastmod>2026-04-18T17:13:23-04:00</lastmod>
+</url>
+</urlset>

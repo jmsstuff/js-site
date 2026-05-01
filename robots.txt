@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jmsstuff.github.io/js-site/sitemap.xml
