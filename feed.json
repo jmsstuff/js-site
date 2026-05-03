@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jmsstuff.github.io/js-site/my-book.html",
+            "url": "https://jmsstuff.github.io/js-site/my-book.html",
+            "title": "My Book",
+            "summary": "Food Fest! Your Complete Guide to Florida's Food Festivals is the first book listing over 200 delicious Florida food celebrations—a&hellip;",
+            "content_html": "<p><a href=\"https://jmsstuff.github.io/js-site/florida-food-festival-guide.html\" title=\"My  book - Food Fest! Your Complete Guide to Florida's Food Festivals\"><em>Food Fest! Your Complete Guide to Florida's Food Festivals</em></a> is the first book listing over 200 delicious Florida food celebrations—a scrumptious, year-round cornucopia. Now at your fingertips is the key to tantalizing food festivals, cook-offs, and \"Taste Of\" events. Something for everyone—\"Seafood Fiesta,\" \"Carnivore's Delight,\" \"Vegan's Variety,\" and more. All the information you need in 1 handy, easy-to-use book.<br><br><a href=\"https://jmsstuff.github.io/js-site/florida-food-festival-guide.html\" title=\"Download the Food Fest book\">Download the book</a> for free!</p>",
+            "image": "https://jmsstuff.github.io/js-site/media/posts/10/FoodFest_Logo_RGB72.jpg",
+            "author": {
+                "name": "Joan"
+            },
+            "tags": [
+                   "sidebar"
+            ],
+            "date_published": "2026-05-02T21:12:25-04:00",
+            "date_modified": "2026-05-02T21:36:27-04:00"
+        },
+        {
             "id": "https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html",
             "url": "https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html",
             "title": "Cronometer: Free and Easy-to-Use Food Diary",
@@ -20,10 +36,10 @@
                 "name": "Joan"
             },
             "tags": [
-                   "sidebar"
+                   "health"
             ],
             "date_published": "2026-03-09T17:00:56-04:00",
-            "date_modified": "2026-04-16T22:08:15-04:00"
+            "date_modified": "2026-05-02T21:19:24-04:00"
         }
     ]
 }

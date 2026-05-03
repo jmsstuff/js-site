@@ -3,12 +3,36 @@
     <title>Joan Steinbacher</title>
     <link href="https://jmsstuff.github.io/js-site/feed.xml" rel="self" />
     <link href="https://jmsstuff.github.io/js-site" />
-    <updated>2026-04-16T22:08:15-04:00</updated>
+    <updated>2026-05-02T21:36:27-04:00</updated>
     <author>
         <name>Joan</name>
     </author>
     <id>https://jmsstuff.github.io/js-site</id>
 
+    <entry>
+        <title>My Book</title>
+        <author>
+            <name>Joan</name>
+        </author>
+        <link href="https://jmsstuff.github.io/js-site/my-book.html"/>
+        <id>https://jmsstuff.github.io/js-site/my-book.html</id>
+        <media:content url="https://jmsstuff.github.io/js-site/media/posts/10/FoodFest_Logo_RGB72.jpg" medium="image" />
+            <category term="sidebar"/>
+
+        <updated>2026-05-02T21:12:25-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jmsstuff.github.io/js-site/media/posts/10/FoodFest_Logo_RGB72.jpg" alt="Food Fest! Your Complete Guide to Florida&#x27;s Food Festivals" />
+                    Food Fest! Your Complete Guide to Florida's Food Festivals is the first book listing over 200 delicious Florida food celebrations—a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jmsstuff.github.io/js-site/media/posts/10/FoodFest_Logo_RGB72.jpg" class="type:primaryImage" alt="Food Fest! Your Complete Guide to Florida&#x27;s Food Festivals" /></p>
+                <p><a href="https://jmsstuff.github.io/js-site/florida-food-festival-guide.html" title="My  book - Food Fest! Your Complete Guide to Florida's Food Festivals"><em>Food Fest! Your Complete Guide to Florida's Food Festivals</em></a> is the first book listing over 200 delicious Florida food celebrations—a scrumptious, year-round cornucopia. Now at your fingertips is the key to tantalizing food festivals, cook-offs, and "Taste Of" events. Something for everyone—"Seafood Fiesta," "Carnivore's Delight," "Vegan's Variety," and more. All the information you need in 1 handy, easy-to-use book.<br><br><a href="https://jmsstuff.github.io/js-site/florida-food-festival-guide.html" title="Download the Food Fest book">Download the book</a> for free!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cronometer: Free and Easy-to-Use Food Diary</title>
         <author>
@@ -17,7 +41,7 @@
         <link href="https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html"/>
         <id>https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html</id>
         <media:content url="https://jmsstuff.github.io/js-site/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg" medium="image" />
-            <category term="sidebar"/>
+            <category term="health"/>
 
         <updated>2026-03-09T17:00:56-04:00</updated>
             <summary type="html">
