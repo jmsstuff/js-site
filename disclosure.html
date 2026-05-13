@@ -48,7 +48,7 @@ function shareViaEmail() {
   var emailSubject = "Check out this blog post on Joan's site";
   console.log("emailSubject: " + emailSubject); 
   var emailBody = 'Blog Post\n' + pageTitle + '\n';  
-  var mailToLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody) + encodeURIComponent(pageURL) + '\r\n';
+  var mailToLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody) + encodeURIComponent(pageURL);
   window.location.href = mailToLink;
 }
 function shareLink(className) {
