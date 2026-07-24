@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jmsstuff.github.io/js-site/get-healthy-and-feel-great.html",
+            "url": "https://jmsstuff.github.io/js-site/get-healthy-and-feel-great.html",
+            "title": "Get Healthy at Planet Fitness",
+            "summary": "I've belonged to many gyms over the years, but my favorite (and current one) is Planet Fitness. There's something here&hellip;",
+            "content_html": "<p>I've belonged to many gyms over the years, but my favorite (and current one) is <a href=\"https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Planet Fitness\" rel=\"sponsored noopener noreferrer\">Planet Fitness</a>. There's something here for everyone, all at a very affordable price!</p>\n<p>Suitable for all ages and interests, there's a variety of cardio and strength training options. Aerobic machines include treadmills, ellipticals, steppers, and stationary bikes.</p>\n<p>For strength training, options include free weights, weight machines, and plate-loaded equipment.</p>\n<p>There's also a dedicated circuit training room. The exercises include both aerobic and strength training for a quick, 30-minute workout.</p>\n<p>Aside from all the amenities, <a href=\"https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Planet Fitness\" rel=\"sponsored noopener noreferrer\">Planet Fitness</a> is hands-down the cleanest gym I've ever been to! And it provides disinfectant for wiping down equipment and hand sanitizer dispensers. These are throughout the gym. Staying healthy is much easier when you're not spreading or catching germs!</p>\n<p><a href=\"https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Planet Fitness\" rel=\"sponsored noopener noreferrer\">Planet Fitness</a> offers two membership levels:</p>\n<ol>\n<li><strong>Classic</strong> - standard membership, with unlimited access to your home club.</li>\n<li><strong>PF Black Card</strong> - access to any club, bring a guest anytime, massage chairs/beds, PF+ premium digital workouts, and much more.</li>\n</ol>\n<p>I opted for the PF Black Card so I can bring my spouse and access any Planet Fitness across the country. Regardless, I encourage you to try Planet Fitness out.</p>\n<p>There's no long-term contract required. You can cancel your membership at any time. And best of all, you can join <a href=\"https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Planet Fitness\" rel=\"sponsored noopener noreferrer\">Planet Fitness</a> for just $1 down when you use my <a href=\"https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7\"  target=\"_blank\"  class=\"extlink extlink-icon-1\" title=\"Joan's exclusive Planet Fitness link\" rel=\"sponsored noopener noreferrer\">exclusive link</a>!</p>\n<p>Get healthy and feel great!</p>",
+            "author": {
+                "name": "Joan"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-16T17:35:58-04:00",
+            "date_modified": "2026-07-16T17:39:24-04:00"
+        },
+        {
             "id": "https://jmsstuff.github.io/js-site/my-book.html",
             "url": "https://jmsstuff.github.io/js-site/my-book.html",
             "title": "My Book",
@@ -39,7 +53,7 @@
                    "health"
             ],
             "date_published": "2026-03-09T17:00:56-04:00",
-            "date_modified": "2026-05-02T21:19:24-04:00"
+            "date_modified": "2026-07-21T21:01:08-04:00"
         }
     ]
 }
