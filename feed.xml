@@ -3,7 +3,7 @@
     <title>Joan Steinbacher</title>
     <link href="https://jmsstuff.github.io/js-site/feed.xml" rel="self" />
     <link href="https://jmsstuff.github.io/js-site" />
-    <updated>2026-07-21T21:01:08-04:00</updated>
+    <updated>2026-10-21T17:26:02-04:00</updated>
     <author>
         <name>Joan</name>
     </author>
@@ -16,15 +16,19 @@
         </author>
         <link href="https://jmsstuff.github.io/js-site/get-healthy-and-feel-great.html"/>
         <id>https://jmsstuff.github.io/js-site/get-healthy-and-feel-great.html</id>
+        <media:content url="https://jmsstuff.github.io/js-site/media/posts/14/woman-using-dumbbells-at-gym.jpg" medium="image" />
+            <category term="health"/>
 
         <updated>2026-07-16T17:35:58-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://jmsstuff.github.io/js-site/media/posts/14/woman-using-dumbbells-at-gym.jpg" alt="woman using dumbbells at the gym" />
                     I've belonged to many gyms over the years, but my favorite (and current one) is Planet Fitness. There's something here&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jmsstuff.github.io/js-site/media/posts/14/woman-using-dumbbells-at-gym.jpg" class="type:primaryImage" alt="woman using dumbbells at the gym" /></p>
                 <p>I've belonged to many gyms over the years, but my favorite (and current one) is <a href="https://www.planetfitness.com/referrals?referralCode=MQ9QSGC7"  target="_blank"  class="extlink extlink-icon-1" title="Planet Fitness" rel="sponsored noopener noreferrer">Planet Fitness</a>. There's something here for everyone, all at a very affordable price!</p>
 <p>Suitable for all ages and interests, there's a variety of cardio and strength training options. Aerobic machines include treadmills, ellipticals, steppers, and stationary bikes.</p>
 <p>For strength training, options include free weights, weight machines, and plate-loaded equipment.</p>
