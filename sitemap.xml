@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jmsstuff.github.io/js-site/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.joansteinbacher.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://jmsstuff.github.io/js-site/</loc>
+<loc>https://www.joansteinbacher.com/</loc>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/chapter-1.html</loc>
+<loc>https://www.joansteinbacher.com/chapter-1.html</loc>
 <lastmod>2026-10-21T17:33:33-04:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/cronometer-free-and-easy-to-use-food-diary.html</loc>
+<loc>https://www.joansteinbacher.com/cronometer-free-and-easy-to-use-food-diary.html</loc>
 <lastmod>2026-07-21T21:01:08-04:00</lastmod>
 <image:image>
-<image:loc>https://jmsstuff.github.io/js-site/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg</image:loc>
+<image:loc>https://www.joansteinbacher.com/media/posts/2/melissa-walker-horn-URSho6okPfs-unsplash.jpg</image:loc>
 <image:title><![CDATA[plates of food]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/disclosure.html</loc>
+<loc>https://www.joansteinbacher.com/disclosure.html</loc>
 <lastmod>2026-04-18T17:14:40-04:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/florida-food-festival-guide.html</loc>
+<loc>https://www.joansteinbacher.com/florida-food-festival-guide.html</loc>
 <lastmod>2026-04-26T17:00:48-04:00</lastmod>
 <image:image>
-<image:loc>https://jmsstuff.github.io/js-site/media/posts/3/FoodFestFrontRGB72.jpg</image:loc>
+<image:loc>https://www.joansteinbacher.com/media/posts/3/FoodFestFrontRGB72.jpg</image:loc>
 <image:title><![CDATA[Food Fest! Your Complete Guide to Florida's Food Festivals]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/get-healthy-and-feel-great.html</loc>
+<loc>https://www.joansteinbacher.com/get-healthy-and-feel-great.html</loc>
 <lastmod>2026-10-21T17:26:02-04:00</lastmod>
 <image:image>
-<image:loc>https://jmsstuff.github.io/js-site/media/posts/14/woman-using-dumbbells-at-gym.jpg</image:loc>
+<image:loc>https://www.joansteinbacher.com/media/posts/14/woman-using-dumbbells-at-gym.jpg</image:loc>
 <image:title><![CDATA[woman using dumbbells at the gym]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/home-page.html</loc>
+<loc>https://www.joansteinbacher.com/home-page.html</loc>
 <lastmod>2026-03-06T21:27:50-05:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/my-book.html</loc>
+<loc>https://www.joansteinbacher.com/my-book.html</loc>
 <lastmod>2026-10-23T21:29:32-04:00</lastmod>
 <image:image>
-<image:loc>https://jmsstuff.github.io/js-site/media/posts/10/FoodFestCover_crop_1796_x_1068.jpg</image:loc>
+<image:loc>https://www.joansteinbacher.com/media/posts/10/FoodFestCover_crop_1796_x_1068.jpg</image:loc>
 <image:title><![CDATA[Food Fest! Your Complete Guide to Florida's Food Festivals]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/privacy-policy.html</loc>
+<loc>https://www.joansteinbacher.com/privacy-policy.html</loc>
 <lastmod>2026-05-28T13:51:36-04:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/sample-page.html</loc>
+<loc>https://www.joansteinbacher.com/sample-page.html</loc>
 <lastmod>2026-10-21T17:31:12-04:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/table-of-contents.html</loc>
+<loc>https://www.joansteinbacher.com/table-of-contents.html</loc>
 <lastmod>2026-05-06T10:08:55-04:00</lastmod>
 </url>
 <url>
-<loc>https://jmsstuff.github.io/js-site/terms-of-use.html</loc>
+<loc>https://www.joansteinbacher.com/terms-of-use.html</loc>
 <lastmod>2026-05-28T13:56:21-04:00</lastmod>
 </url>
 </urlset>
